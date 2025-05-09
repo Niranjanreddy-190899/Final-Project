@@ -1,0 +1,484 @@
+{
+  "Mobiles": [
+    {
+      "id": 1,
+      "MobileName": "Nothing Phone 3(a)",
+      "Configurations": {
+        "Display": "6.5-inch OLED, 120Hz refresh rate",
+        "Processor": "Qualcomm Snapdragon 7 Gen 2",
+        "RAM": "8GB",
+        "Storage": "128GB, 256GB",
+        "Camera": "50MP wide + 50MP ultra-wide",
+        "Battery": "4700 mAh, 45W wired charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "379 USD",
+      "Ratings": "4.3 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 2,
+      "MobileName": "iPhone 16 Pro Max",
+      "Configurations": {
+        "Display": "6.7-inch Super Retina XDR OLED, 120Hz",
+        "Processor": "Apple A18 Pro",
+        "RAM": "8GB",
+        "Storage": "256GB, 512GB, 1TB",
+        "Camera": "48MP main + 12MP ultra-wide + 12MP telephoto",
+        "Battery": "4500 mAh, up to 28h video playback",
+        "Operating System": "iOS 18"
+      },
+      "Cost": "1299 USD",
+      "Ratings": "4.7 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 3,
+      "MobileName": "Samsung Galaxy S24 Ultra",
+      "Configurations": {
+        "Display": "6.8-inch QHD+ AMOLED, 120Hz",
+        "Processor": "Snapdragon 8 Gen 3 / Exynos 2400",
+        "RAM": "12GB or 16GB",
+        "Storage": "256GB, 512GB, 1TB",
+        "Camera": "200MP main + 12MP ultra-wide + 10MP telephoto",
+        "Battery": "5000 mAh, 45W wired, 15W wireless",
+        "Operating System": "Android 14 with One UI 6"
+      },
+      "Cost": "1199 USD",
+      "Ratings": "4.8 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 4,
+      "MobileName": "Google Pixel 9 Pro",
+      "Configurations": {
+        "Display": "6.7-inch LTPO OLED, QHD+, 120Hz",
+        "Processor": "Google Tensor G4",
+        "RAM": "16GB",
+        "Storage": "128GB, 256GB, 512GB",
+        "Camera": "50MP main + 48MP ultra-wide + 48MP telephoto",
+        "Battery": "5000 mAh, fast and wireless charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "999 USD",
+      "Ratings": "4.6 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 5,
+      "MobileName": "OnePlus 12",
+      "Configurations": {
+        "Display": "6.82-inch AMOLED, 1440 x 3168, 120Hz",
+        "Processor": "Snapdragon 8 Gen 3",
+        "RAM": "12GB, 16GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP main + 48MP ultra-wide + 64MP telephoto",
+        "Battery": "5400 mAh, 100W wired",
+        "Operating System": "Android 14 with OxygenOS"
+      },
+      "Cost": "799 USD",
+      "Ratings": "4.5 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 6,
+      "MobileName": "Xiaomi 14 Ultra",
+      "Configurations": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Processor": "Snapdragon 8 Gen 3",
+        "RAM": "12GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP triple camera system",
+        "Battery": "5000 mAh with fast charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "799 USD",
+      "Ratings": "4.3 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 7,
+      "MobileName": "Motorola Edge 50 Pro",
+      "Configurations": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Processor": "Snapdragon 7 Gen 3",
+        "RAM": "12GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP triple camera system",
+        "Battery": "5000 mAh with fast charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "899 USD",
+      "Ratings": "4.4 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 8,
+      "MobileName": "Vivo X100 Pro",
+      "Configurations": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Processor": "MediaTek Dimensity 9300",
+        "RAM": "12GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP triple camera system",
+        "Battery": "5000 mAh with fast charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "999 USD",
+      "Ratings": "4.5 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 9,
+      "MobileName": "Realme GT 6",
+      "Configurations": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Processor": "Snapdragon 8 Gen 2",
+        "RAM": "12GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP triple camera system",
+        "Battery": "5000 mAh with fast charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "1099 USD",
+      "Ratings": "4.6 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 10,
+      "MobileName": "Asus ROG Phone 8",
+      "Configurations": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Processor": "Snapdragon 8 Gen 3",
+        "RAM": "12GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP triple camera system",
+        "Battery": "5000 mAh with fast charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "699 USD",
+      "Ratings": "4.2 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 11,
+      "MobileName": "Sony Xperia 1 VI",
+      "Configurations": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Processor": "Snapdragon 8 Gen 3",
+        "RAM": "12GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP triple camera system",
+        "Battery": "5000 mAh with fast charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "799 USD",
+      "Ratings": "4.3 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 12,
+      "MobileName": "Honor Magic6 Pro",
+      "Configurations": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Processor": "Snapdragon 8 Gen 3",
+        "RAM": "12GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP triple camera system",
+        "Battery": "5000 mAh with fast charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "899 USD",
+      "Ratings": "4.4 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 13,
+      "MobileName": "iQOO 12",
+      "Configurations": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Processor": "Snapdragon 8 Gen 3",
+        "RAM": "12GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP triple camera system",
+        "Battery": "5000 mAh with fast charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "999 USD",
+      "Ratings": "4.5 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 14,
+      "MobileName": "Tecno Phantom V Flip",
+      "Configurations": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Processor": "MediaTek Dimensity 8050",
+        "RAM": "12GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP triple camera system",
+        "Battery": "5000 mAh with fast charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "1099 USD",
+      "Ratings": "4.6 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 15,
+      "MobileName": "Infinix Zero Ultra",
+      "Configurations": {
+        "Display": "6.7-inch AMOLED, 120Hz",
+        "Processor": "MediaTek Dimensity 920",
+        "RAM": "12GB",
+        "Storage": "256GB, 512GB",
+        "Camera": "50MP triple camera system",
+        "Battery": "5000 mAh with fast charging",
+        "Operating System": "Android 14"
+      },
+      "Cost": "699 USD",
+      "Ratings": "4.2 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 16,
+      "MobileName": "Samsung Galaxy A66",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "349 USD",
+      "Ratings": "4.2 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 17,
+      "MobileName": "Samsung Galaxy A67",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "399 USD",
+      "Ratings": "4.3 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 18,
+      "MobileName": "Samsung Galaxy A68",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "449 USD",
+      "Ratings": "4.4 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 19,
+      "MobileName": "Samsung Galaxy A69",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "499 USD",
+      "Ratings": "4.5 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 20,
+      "MobileName": "Samsung Galaxy A70",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "349 USD",
+      "Ratings": "4.1 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 21,
+      "MobileName": "Samsung Galaxy A71",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "399 USD",
+      "Ratings": "4.2 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 22,
+      "MobileName": "Samsung Galaxy A72",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "449 USD",
+      "Ratings": "4.3 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 23,
+      "MobileName": "Samsung Galaxy A73",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "499 USD",
+      "Ratings": "4.4 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 24,
+      "MobileName": "Samsung Galaxy A74",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "349 USD",
+      "Ratings": "4.5 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 25,
+      "MobileName": "Samsung Galaxy A75",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "399 USD",
+      "Ratings": "4.1 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 26,
+      "MobileName": "Samsung Galaxy A76",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "449 USD",
+      "Ratings": "4.2 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 27,
+      "MobileName": "Samsung Galaxy A77",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "499 USD",
+      "Ratings": "4.3 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 28,
+      "MobileName": "Samsung Galaxy A78",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "349 USD",
+      "Ratings": "4.4 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 29,
+      "MobileName": "Samsung Galaxy A79",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "399 USD",
+      "Ratings": "4.5 out of 5",
+      "YearOfRelease": "2024"
+    },
+    {
+      "id": 30,
+      "MobileName": "Samsung Galaxy A80",
+      "Configurations": {
+        "Display": "6.6-inch AMOLED, 90Hz",
+        "Processor": "Exynos 1380",
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Camera": "50MP + 8MP + 5MP",
+        "Battery": "5000 mAh, 25W fast charging",
+        "Operating System": "Android 14 with One UI"
+      },
+      "Cost": "449 USD",
+      "Ratings": "4.1 out of 5",
+      "YearOfRelease": "2024"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+body {
+    background-color: #f0f4f8;
+    margin: 0px;
+    padding: 0px;
+    display: grid;
+    grid-template-rows: auto auto auto auto;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 1400px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+}
+
+/* Navigation Bar */
+nav.navigation {
+    background-color: #2c3e50;
+    height: 50px;
+    text-align: center;
+    position: relative;
+}
+
+/* Hide checkbox */
+#menu-toggle {
+    display: none;
+}
+
+/* Menu & Close Buttons */
+.menu-button,
+.close-button {
+    display: none;
+    /* Hidden by default */
+    background-color: #2c3e50;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+}
+
+/* Navigation Links */
+.nav-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(7, 200px);
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-links li {
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 50px;
+}
+
+#container1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 10px;
+
+}
+
+#photo,
+#about {
+    background-color: #5e5257;
+    text-align: center;
+    padding: 20px;
+    height: auto;
+}
+
+.education-skills,
+.projects-experience,
+#container2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 10px;
+
+
+}
+
+#education,
+#skills,
+#projects,
+#experience,
+#certifications,
+#contact {
+    background-color: #5e5257;
+    text-align: center;
+    padding: 20px;
+    height: auto;
+}
+
+#contact ul li {
+    display: inline-block;
+}
+
+#contact ul li img {
+    width: 60px;
+    height: 60px;
+    vertical-align: middle;
+    margin: 30px;
+}
+
+@media only screen and (max-width: 500px) {
+    .container {
+        grid-template-columns: 1fr;
+        padding: 10px;
+    }
+
+    .menu-button {
+        display: block;
+        /* Show menu button */
+    }
+
+    .nav-links {
+        display: none;
+        /* Hide menu by default */
+        width: 100%;
+        position: absolute;
+        top: 50px;
+        left: 0;
+        background-color: #0d3c63;
+        text-align: center;
+        padding: 10px 0;
+        z-index: 1000;
+    }
+
+    .nav-links li {
+        display: block;
+        padding: 10px;
+    }
+
+    .nav-links a {
+        display: block;
+        font-size: 18px;
+        color: white;
+        text-decoration: none;
+        padding: 10px;
+    }
+
+    /* Show menu when checkbox is checked */
+    #menu-toggle:checked~.nav-links {
+        display: block;
+    }
+
+    /* Show Close Button when Menu is Open */
+    #menu-toggle:checked~.menu-button {
+        display: none;
+    }
+
+    #menu-toggle:checked~.close-button {
+        display: block;
+    }
+
+}
