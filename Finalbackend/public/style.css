@@ -1,5 +1,5 @@
 body {
-    background-color: #f5f7fa;
+    background-color: #f0f4f8;
     margin: 0px;
     padding: 0px;
     display: grid;
@@ -98,7 +98,7 @@ nav.navigation {
 
 #photo,
 #about {
-    background-color: #ecf0f1;
+    background-color: #e6e6fa;
     text-align: center;
     padding: 20px;
     height: auto;
@@ -120,7 +120,7 @@ nav.navigation {
 #experience,
 #certifications,
 #contact {
-    background-color: #ecf0f1;
+    background-color: #e6e6fa;
     text-align: center;
     padding: 20px;
     height: auto;
